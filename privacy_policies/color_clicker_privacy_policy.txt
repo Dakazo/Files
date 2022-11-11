@@ -1,0 +1,6 @@
+This application does not collect or store personal data itself, but uses external tools that do collect some personal data. 
+For further inforation on those tools, see links below.
+
+Google Play Services: https://policies.google.com/privacy
+AdMob: https://support.google.com/admob/answer/6128543?hl=en
+Unity: https://unity.com/legal/privacy-policy
